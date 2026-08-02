@@ -319,8 +319,8 @@ banco_preguntas = [
          "Asignar a un estudiante que asista a los estudiantes con ceguera durante las actividades de lectura para que sientan siempre el apoyo de sus compañeros y aumente su confianza.",
          "Darles una explicación general sobre el contenido antes de una lectura grupal para evitar que se enfrenten con muchas dificultades y mantener el ritmo de sus compañeros."
      ],
-     "correcta": 0  # Clave: A},
-        
+     "correcta": 0  # Clave: A
+    } 
 ]
 
 # Inicializar variables de estado para el control de páginas y almacenamiento de respuestas
