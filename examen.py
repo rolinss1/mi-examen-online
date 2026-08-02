@@ -511,28 +511,44 @@ banco_preguntas = [
         ],
         "correcta": 1  # Clave: B
     },
-    {
+        {
         "numero": 57,
-        "enunciado": "Evaluando la pregunta 57 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
-        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "enunciado": "Un docente busca planificar una sesión que promueva el pensamiento crítico en los estudiantes mediante el análisis de textos doctrinales. De acuerdo con las orientaciones pedagógicas del Currículo Nacional (Minedu), ¿cuál de las siguientes acciones es más adecuada para este propósito?",
+        "opciones": [
+            "Presentar un resumen elaborado por expertos sobre la postura oficial de la Iglesia y pedir que lo memoricen.",
+            "Plantear preguntas abiertas que cuestionen los supuestos del texto, promuevan la argumentación propia y conecten el mensaje con problemáticas éticas de su entorno actual.",
+            "Solicitar que copien textualmente los versículos clave del fragmento analizado y resalten con diferentes colores las palabras desconocidas."
+        ],
         "correcta": 1  # Clave: B
     },
     {
         "numero": 58,
-        "enunciado": "Evaluando la pregunta 58 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
-        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "enunciado": "Durante el desarrollo de un proyecto de aprendizaje sobre solidaridad comunitaria, el docente realiza una evaluación formativa constante. ¿Qué instrumento y uso es el más adecuado según el enfoque del Minedu para registrar el progreso de las competencias?",
+        "opciones": [
+            "Aplicar un examen escrito acumulativo sorpresa al final de cada semana para registrar notas cuantitativas definitivas.",
+            "Publicar la lista de alumnos con menor rendimiento en la pizarra del aula para incentivar la competencia interna del grupo.",
+            "Utilizar una rúbrica analítica explícita compartida previamente con los estudiantes, aplicando notas de campo y retroalimentación oportuna durante el proceso para ajustar las estrategias de aprendizaje."
+        ],
         "correcta": 2  # Clave: C
     },
     {
         "numero": 59,
-        "enunciado": "Evaluando la pregunta 59 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
-        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "enunciado": "Para generar un verdadero aprendizaje significativo al introducir la temática de las parábolas de la misericordia, ¿cuál de las siguientes secuencias didácticas es más pertinente en el inicio de la sesión?",
+        "opciones": [
+            "Pedir que busquen definiciones técnicas del término 'misericordia' en diccionarios teológicos oficiales antes de empezar.",
+            "Dictar una breve introducción histórica sobre el contexto social y geográfico del pueblo de Israel en el siglo I d.C.",
+            "Recoger las experiencias vividas o presenciadas por los estudiantes sobre situaciones reales de perdón y reconciliación dentro de sus familias o la escuela, abriendo un espacio de diálogo."
+        ],
         "correcta": 2  # Clave: C
     },
     {
         "numero": 60,
-        "enunciado": "Evaluando la pregunta 60 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
-        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "enunciado": "Teniendo en cuenta los enfoques transversales del Currículo Nacional, el docente busca abordar la interculturalidad en el área de Educación Religiosa. ¿Qué acción pedagógica evidencia mejor la puesta en práctica de este enfoque?",
+        "opciones": [
+            "Reconocer y valorar con respeto las diversas expresiones y manifestaciones de fe de las comunidades andinas, amazónicas y costeñas del Perú, dialogando sobre sus puntos de encuentro con los valores del Evangelio.",
+            "Indicar a los estudiantes que provienen de diferentes regiones del país que deben homogeneizar sus costumbres religiosas bajo un único modelo litúrgico estándar.",
+            "Evitar tocar cualquier tema que involucre tradiciones o costumbres locales de las regiones para no generar debates ni desacuerdos dentro del aula de clase."
+        ],
         "correcta": 0  # Clave: A
     }
 
