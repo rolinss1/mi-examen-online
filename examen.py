@@ -1,4 +1,4 @@
-﻿import streamlit as st
+import streamlit as st
 
 # Configuración visual de la ventana
 st.set_page_config(page_title="Simulador MINEDU - Ascenso 2024", page_icon="📝", layout="centered")
@@ -47,7 +47,61 @@ banco_preguntas = [
         "options_alt": "1. Pide a los estudiantes que dialoguen sobre las diferentes actividades socioeconómicas...",
         "opciones": ["La activación de saberes previos.", "La generación del conflicto cognitivo.", "La gestión autónoma del aprendizaje."],
         "correcta": 0  # Clave: A
+    },    {
+        "numero": 7,
+        "enunciado": "¿Qué proceso de aprendizaje se busca promover, principalmente, con la quinta actividad de la secuencia didáctica presentada en el folleto?",
+        "opciones": ["La transferencia del aprendizaje.", "La metacognición del aprendizaje.", "La generación del conflicto cognitivo."],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 8,
+        "enunciado": "Un estudiante nota que en las fiestas de la Iglesia católica hay imágenes de Jesús, la virgen y los santos, y pregunta si es una falta de respeto para Dios utilizarlas, basándose en que la Biblia prohíbe adorar imágenes. ¿Qué documento debe seleccionar el docente para atender su duda sobre el uso de imágenes?",
+        "opciones": ["El capítulo cuarto de la carta encíclica Fratelli Tutti: 'Un corazón abierto al mundo entero'.", "El capítulo primero de la primera parte del documento conclusivo de Aparecida: 'Los discípulos misioneros'.", "El capítulo primero, 'Amarás al Señor tu Dios con todo tu corazón (...)', de la sección 'Los diez mandamientos' del Catecismo de la Iglesia católica."],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 9,
+        "enunciado": "Un estudiante comenta que la virgen María tiene diferentes representaciones y nombres en el Perú (Chapi, Cocharcas, Asunta). El docente busca desarrollar actividades para que comprendan por qué existen estas representaciones y su significado para las comunidades. ¿Cuál acción pedagógica es más adecuada?",
+        "opciones": ["Pedir que mencionen qué representaciones marianas son homenajeadas en sus localidades, identificar rasgos culturales locales en las imágenes y preguntar por qué cada comunidad añade elementos locales.", "Pedirles que comenten qué valores cristianos se relacionan con la virgen María, presentar las diversas representaciones que existen en el Perú para que las analicen e indicarles que expliquen la importancia de rendirle homenaje.", "Pedirles que expliquen por qué las representaciones marianas de las diversas regiones son auténticas expresiones de fe, pedir su opinión sobre las muestras de fe y señalar la importancia de las fiestas marianas."],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 10,
+        "enunciado": "Al inicio del año escolar, un docente planifica actividades para promover el diálogo ecuménico. ¿Cuál actividad es más adecuada para fomentar que los estudiantes trabajen en conjunto sin importar la iglesia cristiana a la que pertenecen?",
+        "opciones": ["Pedir que, en equipos, propongan un proyecto de ayuda social para la comunidad de la IE, describan los valores de su confesión involucrados e identifiquen las coincidencias entre sus confesiones que favorecen el proyecto.", "Pedir que, en equipos, lean la parábola 'Yo soy la vid: produzcan frutos en mí', expliquen los símbolos de unidad y organicen una exposición sobre las razones por las cuales las personas se separaron.", "Pedir que, en equipos, señalen cuál es la celebración religiosa más importante de sus confesiones, describan las acciones, ritos y veneraciones, y pregunten las semejanzas y diferencias."],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 11,
+        "enunciado": "La docente revisó las interpretaciones escritas del texto 'Las bienaventuranzas' realizadas por los estudiantes y les entregó sus productos con anotaciones en forma de preguntas reflexivas (ej. 'Si son personas pecadoras, ¿por qué se les promete el Reino?'). Según el Minedu, ¿qué tipo de retroalimentación ha realizado la docente?",
+        "opciones": ["Retroalimentación reflexiva.", "Retroalimentación elemental.", "Retroalimentación descriptiva."],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 12,
+        "enunciado": "La docente planifica actividades sobre las cartas católicas. ¿Cuál de las siguientes acciones pedagógicas planificadas se centra en que los estudiantes se organicen para trabajar de forma colaborativa?",
+        "opciones": ["Designar a cada integrante del equipo una carta para resumir, identificar el tema principal y brindar pautas para su exposición individual.", "Pedir que acuerden los criterios y contenidos que consideran pertinente incluir, evaluar los acuerdos para orientarlos en el reparto equitativo de tareas y llevar un control mediante un cuadro de responsabilidades.", "Solicitar que se organicen y nombren a un líder, pedir al líder que designe las tareas y responsabilidades de cada integrante y entregar al líder una ficha de evaluación."],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 13,
+        "enunciado": "En un organizador gráfico, los estudiantes sintetizaron cómo se presenta a Jesús y cuál es el mensaje en cada evangelio (ej. Mateo: como rey; Marcos: como servidor). ¿Cuál de los siguientes aprendizajes se evidencia, principalmente, en este organizador?",
+        "opciones": ["Identifica en qué pasajes bíblicos las acciones de Jesús expresan el cumplimiento de las profecías del Antiguo Testamento.", "Identifica las principales enseñanzas de los evangelios sobre la vida de Jesús.", "Identifica cómo cada evangelista caracteriza a Jesús."],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 14,
+        "enunciado": "Después de leer la parábola 'El árbol se conoce por los frutos' (Mateo 7, 15-20), el docente se propone que los estudiantes la analicen a través del método histórico-crítico. ¿Qué acciones pedagógicas son adecuadas para iniciar este análisis?",
+        "opciones": ["Preguntarles qué significado tiene la frase 'el árbol sano da frutos buenos' y pedir que comenten qué acciones de las personas se relacionan con los frutos buenos.", "Proponerles indagar sobre cuál era la percepción que tenía la sociedad judía del Mesías y pedir que comenten por qué Jesús decía a la comunidad que se debían cuidar de aquellos que daban un mensaje falso.", "Pedirles que comenten por qué se dice que todo árbol que no da buenos frutos se echa al fuego y solicitar que lean el texto 'La higuera que no da fruto' para señalar su relación."],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 15,
+        "enunciado": "Después de leer la parábola 'El árbol se conoce por los frutos', el docente se propone que reflexionen sobre su mensaje. ¿Cuál de las siguientes actividades es más adecuada para ello?",
+        "opciones": ["Pedir que, en equipos, dialoguen sobre la advertencia de cuidarse de los falsos profetas con piel de oveja, mencionar ejemplos y establecer criterios para poner en práctica el mensaje.", "Solicitar que dialoguen sobre el simbolismo de los árboles, los frutos y el lobo, explicarles el contexto en que Jesús presentó estos símbolos y preguntar cómo contribuyen a comprender las enseñanzas.", "Pedir que expliquen quiénes eran los falsos profetas, por qué Jesús los relaciona con lobos feroces e indicar que lean el Catecismo apartado 2850 para comprender cómo actuar."],
+        "correcta": 0  # Clave: A
     }
+
 ]
 
 # Inicializar variables de estado para el control de páginas y almacenamiento de respuestas
