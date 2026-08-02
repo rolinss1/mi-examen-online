@@ -320,7 +320,108 @@ banco_preguntas = [
          "Darles una explicación general sobre el contenido antes de una lectura grupal para evitar que se enfrenten con muchas dificultades y mantener el ritmo de sus compañeros."
      ],
      "correcta": 0  # Clave: A
-    } 
+    },
+        {
+        "numero": 38,
+        "enunciado": "Como parte del análisis de la oración del 'Padre Nuestro', un equipo presentó un organizador gráfico relacionando frases (ej. 'venga a nosotros tu reino') con significados doctrinales. ¿Qué aprendizaje se evidencia principalmente a través de este organizador gráfico?",
+        "opciones": [
+            "Identifica la estructura de la oración del 'Padre Nuestro'.",
+            "Identifica el mensaje central de la oración del 'Padre Nuestro'.",
+            "Identifica las enseñanzas contenidas en la oración del 'Padre Nuestro'."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 39,
+        "enunciado": "Después de interpretar el mensaje de la oración del 'Padre Nuestro', los estudiantes comentan sobre la actividad. ¿Cuál de los siguientes estudiantes evidencia un conflicto cognitivo?",
+        "opciones": [
+            "Pedro dice: 'Durante la interpretación me fue difícil comprender Venga a nosotros tu reino. Pero, con ayuda del Catecismo y comentarios bíblicos, pude comprender el significado'.",
+            "Juan dice: 'Yo pude comprender el significado de la oración porque la relacioné con las enseñanzas de algunos textos bíblicos...'",
+            "María dice: 'Al analizar la oración, encontré que dice que Dios es santo. Pero, Él es un dios, no un santo. Únicamente a un dios se le adora, mientras que a un santo solo se le venera. Tal vez, en la traducción se cambió el significado...'"
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 40,
+        "enunciado": "Después de la lectura del 'Padre Nuestro', la docente busca que los estudiantes reconozcan algunas características de la oración cristiana. ¿Cuál de las siguientes actividades es más adecuada para dicho propósito?",
+        "opciones": [
+            "Solicitarles que lean el apartado 'La oración en la vida cristiana' del Catecismo (N.º 2558 al 2565). Luego, explicar por qué la oración es un don de Dios y elaborar recomendaciones sobre la disposición del cristiano al orar.",
+            "Decirles que describan cómo aprendieron a orar y cuáles fueron las primeras oraciones que aprendieron para que compartan en qué situaciones suelen emplearlas.",
+            "Indicarles que lean el texto 'Orar sin desanimarse' (Lucas 18, 1-8), identifiquen los personajes y expliquen qué aprendizaje para sus vidas extraen de la viuda."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 41,
+        "enunciado": "Durante una reunión colegiada, los docentes dialogan sobre cómo evaluar y retroalimentar durante las sesiones. ¿Cuál de las siguientes sugerencias formula una propuesta explícitamente alineada con la evaluación formativa?",
+        "opciones": [
+            "María dice: 'Para verificar que están logrando los aprendizajes, les indicaré desde el inicio las características del producto final. Se les calificará según un criterio estándar para evitar subjetividades'.",
+            "Marta dice: 'Tras la implementación de una actividad, elaboraré una prueba escrita para conocer el nivel del logro e identificar las fortalezas y aspectos por mejorar en las siguientes sesiones'.",
+            "Pedro dice: 'Durante las actividades, me acercaré a los estudiantes para verificar si han comprendido el propósito de la tarea. Así, podré comprobar su avance o si debo reorientar la actividad para darles más herramientas'."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 42,
+        "enunciado": "El docente tiene como propósito que los estudiantes comprendan el mensaje de la parábola 'Los trabajadores de la viña' (Mateo 20, 1-16). ¿Cuál de las siguientes acciones pedagógicas es más adecuada para lograrlo?",
+        "opciones": [
+            "Pedir que expliquen en equipos el significado de la frase '¿O será porque soy generoso y tú envidioso?' e identifiquen las coincidencias en plenaria.",
+            "Pedir que lean en los comentarios del contexto bíblico el significado de la frase 'Los últimos serán primeros...' y busquen otros textos similares.",
+            "Pedir que identifiquen a quién representa el propietario, la viña y el salario, así como el simbolismo de los primeros y últimos trabajadores. Luego, interpretar la frase 'Yo quiero dar al último lo mismo que a ti'."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 43,
+        "enunciado": "Teniendo en cuenta el fragmento de 'Los trabajadores de la viña' donde el dueño defiende su generosidad frente al reclamo de los primeros trabajadores, el docente busca un texto bíblico cuyo mensaje principal sea similar. ¿Cuál texto favorece más este propósito?",
+        "opciones": [
+            "El texto en el que Jesús, crucificado, habla con el ladrón arrepentido y le dice: 'En verdad te digo que hoy mismo estarás conmigo en el paraíso'.",
+            "El texto en el que Jesús conversa con un joven rico y le comenta: 'Si quieres ser perfecto, vende todo lo que posees y reparte el dinero entre los pobres...'.",
+            "El texto en el que Jesús narra una parábola que culmina con la frase: 'Átenlo de pies y manos, y échenlo en las tinieblas... Porque muchos son los llamados, y pocos los escogidos'."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 44,
+        "enunciado": "Un docente pide a los estudiantes que indiquen qué creencia tienen en común el cristianismo, el islam y el judaísmo. ¿Qué estudiante identifica una creencia correcta común entre estas tres religiones?",
+        "opciones": [
+            "Ana dice: 'La creencia que tienen en común es que Dios busca tener una relación personal con los seres humanos'.",
+            "Bruno dice: 'A mí me parece que lo que tienen en común es la creencia de que se salvarán las personas que hagan buenas obras sean creyentes o no'.",
+            "Carlos dice: 'Creo que las tres coinciden en que Dios se presenta ante la humanidad a través de su creación'."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 45,
+        "enunciado": "Ante la confusión de un estudiante por el texto literal de Lucas 14, 25-35 ('Si no dejo a mis padres y a mis hermanos no puedo ser su discípulo'), la docente busca orientarlos sobre cómo interpretar esta frase. ¿Cuál actividad es más pertinente?",
+        "opciones": [
+            "Indicarles que dialoguen sobre las actividades de los apóstoles para difundir las enseñanzas, los sacrificios identificados y el contexto político-religioso de la época.",
+            "Explicarles que los textos no deben ser interpretados de manera literal y deben analizarse considerando su contexto, comentando las circunstancias en que Jesús lo dijo para que deduzcan a qué se refería.",
+            "Solicitarles que busquen en el Catecismo información sobre el primer y cuarto mandamiento, contrastando por qué amar a Dios sobre todas las cosas antecede a honrar padre y madre."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 46,
+        "enunciado": "Después de leer la parábola 'El juicio final' (Mateo 25, 31-46), la docente se propone que comprendan su mensaje. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para el logro de este propósito?",
+        "opciones": [
+            "Presentar y explicar el significado de las obras de misericordia corporales y espirituales, para luego pedir que relacionen las acciones del texto con dichas obras.",
+            "Pedir que, en equipos, dialoguen sobre a quiénes se refiere la parábola (Rey, ovejas, chivos) y analicen por qué Jesús se identifica con 'los más pequeños', quienes fueron destituidos de su propia dignidad.",
+            "Pedir que expliquen el significado literal de dar de comer, beber y recibir en casa, señalando acciones de cómo ponerlo en práctica en su entorno."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 47,
+        "enunciado": "Tras identificar el mensaje de 'El juicio final', la docente se propone que los estudiantes comprendan la importancia de las obras de misericordia. ¿Cuál de las siguientes actividades es más adecuada?",
+        "opciones": [
+            "Pedirles que analicen el significado de la frase referida a la segunda venida del Hijo del Hombre y explicar qué pide Jesús para entrar al Reino de los Cielos.",
+            "Pedirles que comenten qué es la misericordia para ellos, analicen las enseñanzas que brinda la Iglesia católica en el Catecismo sobre las obras de misericordia y expliquen por qué a quienes las practican se les permitirá tomar posesión del Reino.",
+            "Pedirles que expliquen el significado de 'Vengan, benditos de mi Padre...' y preguntarles si conocen otras acciones diferentes a las obras de misericordia para acceder al Reino."
+        ],
+        "correcta": 1  # Clave: B
+    }
+
 ]
 
 # Inicializar variables de estado para el control de páginas y almacenamiento de respuestas
