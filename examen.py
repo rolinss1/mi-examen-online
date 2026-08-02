@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configuración visual de la ventana
 st.set_page_config(page_title="Simulador MINEDU - Ascenso 2024", page_icon="imagen rolinss3.jpg", layout="centered")
-st.sidebar.image("imagen rolinss3.jpg", width=120)
+st.sidebar.image("imagen rolinss3.jpg", width=120 caption="Profesor(a) Administrador(a)")
 st.title("Simulador de Examen MINEDU")
 st.subheader("Concurso de Ascenso 2024 - Educación Religiosa Secundaria")
 st.write("Responde las preguntas y obtén tu calificación instantánea al finalizar.")
