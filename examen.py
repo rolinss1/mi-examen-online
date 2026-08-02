@@ -274,7 +274,6 @@ banco_preguntas = [
     {
         "numero": 33,
         "enunciado": "La docente ha pedido a los estudiantes que analicen el texto 'Dios-Amor es fuente del amor' a través del método de la Lectio Divina. ¿Cuál de los siguientes textos elaborados por los estudiantes se corresponde con el momento de la meditación?",
-
 "opciones": [
     "Agradeceré a Dios por su infinito amor, por salvarnos del pecado enviando a su Hijo único para que tengamos vida eterna. Le pediré que este amor esté presente en mí cada día.",
     "El amor de Dios nos permite ver nuestra reality de otra manera. Por eso, trataré de poner en práctica la frase 'amémonos unos a otros' en mi familia, institución educativa y comunidad.",
@@ -292,7 +291,8 @@ banco_preguntas = [
         ],
         "correcta": 0  # Clave: A
     },
-    {"numero": 35,
+    {
+        "numero": 35,
      "enunciado": "Un docente tiene como propósito que los estudiantes analicen textos bíblicos a través del método histórico-crítico. Para ello, les presenta el texto bíblico 'Curación de un leproso' (Mateo 8, 1-4). ¿Cuál de las siguientes acciones pedagógicas es más adecuada para el momento inicial del método histórico-crítico?",
      "opciones": [
          "Indicarles que expliquen cómo creen que Jesús actuaría en el contexto actual para ayudar a las personas enfermas que no tienen medios ni apoyo para cuidar de su salud.",
@@ -301,7 +301,8 @@ banco_preguntas = [
      ],
      "correcta": 1  # Clave: B
     },
-    {"numero": 36,
+    {
+        "numero": 36,
      "enunciado": "En el marco de una actividad de aprendizaje, la docente se propone que los estudiantes comprendan la importancia del principio de participación de la Doctrina Social de la Iglesia para que fomenten acciones de ayuda en su comunidad. ¿Cuál de las siguientes actividades es más adecuada para ello?",
      "opciones": [
          "Pedir que comenten por qué las decisiones políticas pueden influenciar positiva o negativamente en sus comunidades. Luego, investigar propuestas políticas que hayan favorecido a las comunidades y mostrar cómo se complementan con la Iglesia.",
@@ -310,7 +311,8 @@ banco_preguntas = [
      ],
      "correcta": 2  # Clave: C
     },
-    {"numero": 37,
+    {
+        "numero": 37,
      "enunciado": "De acuerdo con la perspectiva del enfoque inclusivo, ¿cuál de las siguientes propuestas es más pertinente para que los estudiantes con ceguera participen significativamente en las sesiones de clase?",
      "opciones": [
          "Indagar sobre las preferencias de los estudiantes en cuanto a la presentación o el formato de la información (si quieren que alguien les lea o leer en Braille) para que accedan a la misma información que sus compañeros.",
