@@ -2,11 +2,12 @@ import streamlit as st
 
 # Configuración visual de la ventana
 st.set_page_config(page_title="Simulador MINEDU - Ascenso 2024", page_icon="🎓", layout="centered")
+st.sidebar.image("mi_foto.jpg", width=150, caption="Profesor(a) Administrador(a)")
 
 st.title("🎓 Simulador de Examen MINEDU")
 st.subheader("Concurso de Ascenso 2024 - Educación Religiosa Secundaria")
-st.write("Responde las preguntas y obtén tu calificación instantánea al finalizar.")
-st.markdown("---")
+st.sidebar.write("Responde las preguntas y obtén tu calificación instantánea al finalizar.")
+st.sidebar.markdown("---")
 
 # Base de datos con las preguntas extraídas del cuadernillo y sus respuestas correctas
 # Formato: 0=A, 1=B, 2=C
