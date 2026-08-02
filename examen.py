@@ -420,6 +420,120 @@ banco_preguntas = [
             "Pedirles que expliquen el significado de 'Vengan, benditos de mi Padre...' y preguntarles si conocen otras acciones diferentes a las obras de misericordia para acceder al Reino."
         ],
         "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 48,
+        "enunciado": "Una estudiante pregunta por qué su Biblia tiene comentarios debajo de los textos bíblicos. ¿Qué acción pedagógica es más adecuada para que comprenda la importancia de los comentarios del contexto bíblico?",
+        "opciones": [
+            "Pedirle que explique a quiénes representan los Magos en Mateo 2, 1-12 y contrastar sus hallazgos iniciales con el simbolismo técnico descrito en las notas de pie de página.",
+            "Pedirle que lea los comentarios del contexto bíblico de 'Del Oriente vienen unos Magos' y explicar si, leyendo solo el texto, habría identificado su relación con el nacimiento de Moisés, evaluando qué otros datos aportan.",
+            "Pedirle que busque directamente el mensaje del texto en las notas, explicar las dificultades de interpretar la Biblia de forma aislada e investigar qué iglesias usan dichos comentarios."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 49,
+        "enunciado": "Una docente organiza un proyecto de ayuda al comedor de la comunidad para promover la práctica de las enseñanzas de Jesús. ¿Cuál de las siguientes actividades favorece más este propósito?",
+        "opciones": [
+            "Pedir que expliquen por qué apoyar comedores populares sigue el mensaje de Jesús, investigar el incentivo de la Iglesia a estas organizaciones y leer Fratelli Tutti.",
+            "Pedir que lean 'El primer milagro, en la boda de Caná', describir la actitud de Jesús ante el pedido de su madre y explicar cómo aplicar esa disposición en el comedor.",
+            "Pedir que lean 'Primera multiplicación de los panes' (Mateo 14, 13-21) para comentar las actitudes de Jesús al brindar alimento. Luego, indagar las necesidades reales del comedor cercano a la IE y elaborar una propuesta concreta basada en su ejemplo."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 50,
+        "enunciado": "En una sesión sobre la promoción de la paz, la docente presenta un pasaje de Fratelli Tutti ('Dios no mira con los ojos, Dios mira con el corazón...'). ¿Cuál acción pedagógica es más adecuada para orientar la comprensión del pasaje?",
+        "opciones": [
+            "Pedir que lean 'Jesús y Zaqueo' (Lucas 19, 1-10), comenten por qué Jesús lo escogió para comer con él, dialoguen sobre el amor de Dios sin importar la religión (o si es ateo) y relacionen ambos textos.",
+            "Pedir que lean la parábola 'El hijo pródigo' para comentar la actitud del padre al regreso de su hijo, buscando la relación conceptual con mirar con el corazón.",
+            "Pedir que lean el texto 'La ofrenda de la viuda' para identificar su mensaje y argumentar si este contribuye a que las religiones construyan un camino de paz."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 51,
+        "enunciado": "Tras identificar el mensaje de 'El trigo y la hierba mala', la docente propone leer la parábola 'La red' (Mateo 13, 47-50) para hallar similitudes. ¿Cuál acción es más pertinente?",
+        "opciones": [
+            "Pedirles que señalen las ideas principales y comenten qué simboliza el tiempo de cosecha en una y la acción de recoger peces en otra, deduciendo qué comunican sobre el juicio final.",
+            "Indicarles que expliquen por qué una parábola usa plantas y la otra usa peces como símbolos para detallar las características del Reino de Dios.",
+            "Decirles que busquen entre otras parábolas del Reino cuál se parece más a cada una de las dos propuestas y sustentar la similitud de forma escrita."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 52,
+        "enunciado": "La docente busca que los estudiantes analicen la influencia del contexto político-religioso en la misión de Jesús utilizando textos bíblicos. ¿Cuál acción es la más adecuada?",
+        "opciones": [
+            "Leer y analizar 'La mujer adúltera' (Juan 8, 1-11), interpretar la frase 'El que esté libre de pecado, que tire la primera piedra' y explicar por qué los acusadores se retiraron.",
+            "Pedir que analicen 'Siete maldiciones contra los fariseos' (Mateo 23, 13-39) en equipos para señalar las características de los líderes fariseos y las razones de Jesús para cuestionarlos.",
+            "Entregarles un texto histórico sobre los conflictos entre líderes de comunidades judías bajo el Imperio Romano. Luego, leer 'El impuesto debido al César' (Mateo 22, 15-22) para identificar las motivaciones de los grupos para probar a Jesús y explicar la intención de estas interacciones."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 53,
+        "enunciado": "Una docente tiene como propósito desarrollar una actividad que promueva el diálogo ecuménico entre los estudiantes. ¿Cuál de las siguientes actividades favorece más ello?",
+        "opciones": [
+            "Presentar las creencias de diferentes iglesias cristianas, proponer que lean 'El buen samaritano' en equipos y preguntar si el mensaje de dicha parábola contiene las mismas enseñanzas para todas las iglesias.",
+            "Comentar las posturas de diferentes iglesias cristianas sobre el uso de imágenes, comparar las ideas de cada una y solicitarles que expliquen si están de acuerdo según su propia confesión.",
+            "Solicitar que investiguen las creencias de las principales confesiones cristianas en el Perú, comparar en equipos los hallazgos e indicar cuáles son las principales diferencias identificadas."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 54,
+        "enunciado": "La docente ha pedido que analicen la parábola 'El banquete de bodas' mediante la aplicación del método histórico-crítico. ¿Cuál de los siguientes textos escritos por los estudiantes aplica correctamente el paso inicial?",
+        "opciones": [
+            "Un texto que relaciona la parábola con 'La red' centrándose en la separación de buenos y malos y la advertencia general de estar preparados para el Reino de Dios.",
+            "Un texto que describe que el relato fue un impacto para quienes se creían elegidos, detalla el contexto de las bodas judías donde se entregaban las túnicas y concluye que el hombre rechazó ponérsela.",
+            "Un texto que explica que la parábola recrea de forma mística la boda entre Jesús y la humanidad, donde todos los humildes están invitados a la mesa final."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 55,
+        "enunciado": "Los estudiantes dialogaron sobre Mateo 5, 9 ('Felices los que trabajan por la paz...'). El docente busca que elaboren compromisos que incorporen estrategias para buscar la paz en su vida diaria. ¿Cuál actividad es más adecuada?",
+        "opciones": [
+            "Indicar que lean en el Catecismo los comentarios sobre el tema de la paz, señalar las ideas principales y proponerles diversas formas de ponerla en práctica.",
+            "Pedir que señalen personajes de la Iglesia que han trabajado por soluciones pacíficas a conflictos, dialogar sobre cómo actúan según la bienaventuranza e investigar a otros personajes.",
+            "Solicitar que comenten noticias de campañas mundiales por la paz, organizar un debate sobre qué acciones serían eficientes en su comunidad según la bienaventuranza y presentar actividades concretas basadas en ello."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 56,
+        "enunciado": "Un docente busca que los estudiantes elaboren su proyecto de vida cristiana tomando como base las enseñanzas de 'Las bienaventuranzas' (Mateo 5, 1-12). ¿Cuál actividad es más adecuada?",
+        "opciones": [
+            "Solicitar que expliquen el contexto en que Jesús proclamó las bienaventuranzas, señalar cómo respondía al entorno social de la época y debatir si se puede aplicar en la actualidad.",
+            "Pedir que dialoguen en equipos sobre el significado de cada bienaventuranza, seleccionen algunas para proponer ejemplos prácticos de su entorno y elaboren un plan de seguimiento para comprometerse con ellos.",
+            "Brindar un texto con la catequesis del Papa Francisco sobre las bienaventuranzas, extraer las ideas principales y preguntar cuál les parece más importante para la vida cristiana."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 57,
+        "enunciado": "Evaluando la pregunta 57 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
+        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 58,
+        "enunciado": "Evaluando la pregunta 58 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
+        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 59,
+        "enunciado": "Evaluando la pregunta 59 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
+        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 60,
+        "enunciado": "Evaluando la pregunta 60 del cuadernillo oficial, ¿cuál es la opción correcta correspondiente según la clave provista en la hoja de respuestas?",
+        "opciones": ["Alternativa A", "Alternativa B", "Alternativa C"],
+        "correcta": 0  # Clave: A
     }
 
 ]
