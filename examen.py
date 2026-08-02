@@ -100,8 +100,183 @@ banco_preguntas = [
         "enunciado": "Después de leer la parábola 'El árbol se conoce por los frutos', el docente se propone que reflexionen sobre su mensaje. ¿Cuál de las siguientes actividades es más adecuada para ello?",
         "opciones": ["Pedir que, en equipos, dialoguen sobre la advertencia de cuidarse de los falsos profetas con piel de oveja, mencionar ejemplos y establecer criterios para poner en práctica el mensaje.", "Solicitar que dialoguen sobre el simbolismo de los árboles, los frutos y el lobo, explicarles el contexto en que Jesús presentó estos símbolos y preguntar cómo contribuyen a comprender las enseñanzas.", "Pedir que expliquen quiénes eran los falsos profetas, por qué Jesús los relaciona con lobos feroces e indicar que lean el Catecismo apartado 2850 para comprender cómo actuar."],
         "correcta": 0  # Clave: A
-    }
+    },
+    {
+        "numero": 16,
+        "enunciado": "Durante una reunión colegiada, los docentes de una institución educativa están dialogando sobre las actividades que implementarán con el fin de que los estudiantes adquieran herramientas para resolver conflictos. ¿Cuál de las siguientes propuestas de los docentes favorece más ello?",
+        "opciones": [
+            "Esteban dice: 'Si ocurre un conflicto durante un trabajo grupal, es mejor separar a los estudiantes y enviarlos a diferentes grupos...'",
+            "María dice: 'Podemos decirles que, cuando se presente algún desacuerdo, se tomen un tiempo para tranquilizarse y piensen en las razones. Luego, que cada uno explique cómo se sintió y cómo cree que podría solucionarse...'",
+            "Pedro dice: 'Cuando ocurra un conflicto, podemos pedirles que, voluntariamente, un estudiante comunique a todos las normas de convivencia...'"
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 17,
+        "enunciado": "Una docente presenta un organizador sobre las Fases de la historia de la salvación (El tiempo del Antiguo Testamento, El tiempo de Jesús, El tiempo de la Iglesia). ¿Por qué se puede afirmar que el organizador es pertinente para el propósito de que los estudiantes comprendan los principales hechos?",
+        "opciones": [
+            "Porque sirve como guía completa y detallada para que los estudiantes puedan conocer los hechos de la historia de la salvación en el Génesis, evangelios y Hechos.",
+            "Porque ofrece una visión general de cómo se realiza, en la historia de la humanidad, la salvación que Dios ofrece: el anuncio de la promesa, el cumplimiento con Jesús y el esfuerzo de la Iglesia.",
+            "Porque permite que los estudiantes conozcan profundamente los medios y las personas a través de las cuales Dios reveló su plan."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 18,
+        "enunciado": "La docente va a desarrollar la unidad 'La Creación es una expresión del amor de Dios a las personas' a partir del Génesis. Tiene como propósito activar los saberes previos. ¿Cuál de las siguientes actividades es adecuada?",
+        "opciones": [
+            "Indicar que lean 'Dios ordena el universo' (Génesis 1, 1-20) y orientarlos para que expliquen el mensaje del texto.",
+            "Indicar que lean la teoría científica de la creación del mundo y los relatos bíblicos de la creación e identifiquen sus diferencias.",
+            "Indicar que escriban las ideas que conozcan sobre las teorías o relatos sobre el origen del mundo y pedirles que las compartan con la clase."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 19,
+        "enunciado": "Tras observar la pintura 'La creación de Adán' de Miguel Ángel, la docente se propone que interpreten la representación que planteó el pintor acerca del relato del Génesis. ¿Cuál actividad es más adecuada?",
+        "opciones": [
+            "Pedirles que lean Génesis 1, 26 ('Hagamos al hombre a nuestra imagen...') y comenten cómo se representa en la pintura, y por qué Eva está al lado de Dios.",
+            "Pedirles que lean ''El Adán' en el jardín de Edén' (Génesis 2, 4b-24). Luego, indicar que comenten qué elementos están representados, cuáles de manera diferente y con qué finalidad el pintor los destacó.",
+            "Pedirles que lean los dos relatos del Génesis, analicen cuál tiene más elementos en la pintura y expliquen por qué el pintor se basó principalmente en uno."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 20,
+        "enunciado": "Una estudiante nota que el manto que rodea a Dios en la pintura tiene forma de cerebro humano. La docente quiere que reflexionen sobre la intención del pintor. ¿Cuál acción pedagógica es más adecuada?",
+        "opciones": [
+            "Preguntarles si notaron la forma, pedir que comparen el manto con el Génesis 1, y explicarles por qué el pintor incluyó elementos que no están en el texto.",
+            "Solicitar que señalen en qué pasaje se narra cómo Dios otorgó el conocimiento. Luego, explicarles que el pintor representó el cerebro para comunicar que la razón proviene de Dios, y preguntar por los dedos unidos.",
+            "Pedirles que, en equipos, expliquen qué creen que representa el manto, indicar que comparen sus explicaciones con la frase 'La razón y la fe (...) provienen de Dios' de la encíclica Fides et Ratio, y compartir conclusiones."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 21,
+        "enunciado": "La docente se propone que los estudiantes comprendan cómo se relacionan ambos relatos de la creación del Génesis. ¿Cuál actividad es más adecuada?",
+        "opciones": [
+            "Pedir que investiguen cuál de los dos relatos fue escrito primero y busquen en comentarios bíblicos la explicación de por qué existen dos versiones.",
+            "Pedir que identifiquen la secuencia de eventos en cada relato y señalen qué evento se destaca. Luego, pedirles que, en pares, expliquen el propósito de cada uno y si se complementan.",
+            "Pedir que comparen los pasajes de la creación del hombre y la mujer en Génesis 1 y 2, identifiquen cuál es más detallado y expliquen por qué."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 22,
+        "enunciado": "La docente se propone una actividad para promover que los estudiantes comprendan el origen de los relatos de la creación del libro del Génesis. ¿Cuál actividad es más adecuada?",
+        "opciones": [
+            "Presentarles algunos mitos sobre la creación de culturas contemporáneas al Génesis, pedir que los comparen, señalen semejanzas y pregunten por qué existen esas semejanzas.",
+            "Presentarles el contexto histórico de cada relato, brindarles un texto que explique las fuentes orales y escritas que sirvieron de base al pueblo de Israel, y pedir que expliquen por qué hay dos relatos.",
+            "Presentarles una línea de tiempo del pueblo de Israel, pedir que investiguen las tradiciones orales de las tribus y comentarles que por mantenerse de forma oral existe más de una versión."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 23,
+        "enunciado": "Una docente busca que los estudiantes reflexionen sobre la importancia de poner en práctica una cultura de paz y diálogo siguiendo el ejemplo de Jesús. ¿Cuál de las siguientes actividades permite iniciar con este propósito?",
+        "opciones": [
+            "Pedir que, en equipos, busquen y contrasten textos de diálogo y paz en el Catecismo y evangelios, seleccionen personajes de la Iglesia que promovieron la paz y presenten un listado de acciones.",
+            "Comentarles sobre la situación de algunos países con conflictos. Luego, presentarles pasajes de la vida de Jesús que narren problemas de su sociedad y pedir que expliquen cómo respondía Jesús y cómo ayuda hoy.",
+            "Indicar que busquen información sobre las jornadas mundiales de la paz, analicen el mensaje que quieren trasmitir y pregunten si estas jornadas contribuyen a tomar conciencia."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 24,
+        "enunciado": "Un estudiante comenta que, aunque siempre ora, Dios no lo escucha pues no responde a sus peticiones. La docente se propone que el estudiante analice su forma de orar. ¿Cuál acción pedagógica es más adecuada?",
+        "opciones": [
+            "Comentarle que Dios no le concede sus peticiones porque no se comunica de manera correcta, y pedir que lea 'El Padrenuestro' para expresar sus deseos en la forma y orden correspondiente.",
+            "Indicarle que lea la parábola 'El fariseo y el publicano' (Lucas 18, 9-14) y explique la diferencia al orar. Luego, pedir que analice su propia forma de orar, identificando sus expectativas sobre Dios y si pide bienes o dones.",
+            "Pedirle que lea Santiago 4, 2-3 ('...si piden algo, no lo consiguen porque piden mal...'). Sobre esta base, decirle cuál es el mensaje y ayudarlo a encontrar oraciones más pertinentes."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 25,
+        "enunciado": "La docente tiene como propósito que los estudiantes investiguen la concordancia que existe entre el Antiguo Testamento y el Nuevo Testamento. Para guiarlos, ha decidido darles un organizador. Evaluando el folleto, ¿cuál de las opciones (Gráficos A, B o C) guarda la estructura de libros históricos, didácticos y proféticos cruzados entre ambos testamentos?",
+        "opciones": [
+            "El organizador A (Tabla con columnas de Libro Sagrado, AT, NT, Grupo, Resumen y Objetivo).",
+            "El organizador B (Diagrama de Venn con intersección de Libros Proféticos).",
+            "El organizador C (Matriz de doble entrada que contrasta Libros Históricos, Didácticos y Proféticos para el Antiguo y Nuevo Testamento con preguntas guía)."
+        ],
+        "correcta": 2  # Clave: C
+    },
+        {
+        "numero": 26,
+        "enunciado": "Los estudiantes están leyendo la parábola 'El hijo pródigo' (Lucas 15, 11-32). A partir de este texto, la docente busca que los estudiantes reflexionen sobre el sacramento de la Reconciliación. ¿Cuál de las siguientes actividades es más pertinente para lograr este propósito?",
+        "opciones": [
+            "Pedir que indiquen a quiénes representan el padre, el hijo menor y el hijo mayor de la parábola. Luego, explicarles por qué es importante que los cristianos conozcan las enseñanzas de la parábola leída.",
+            "Pedir que escojan el pasaje de la parábola que más les gustó y expliquen por qué lo escogieron. Luego, solicitar que expliquen cuál es el mensaje de dicho pasaje y si contiene alguna enseñanza sobre los sacramentos.",
+            "Pedir que comparen las actitudes del hijo menor cuando se fue, cuando se arrepintió y cuando regresó a casa. Luego, solicitar que expliquen cuáles fueron las razones del cambio de actitud del hijo menor hacia su padre."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 27,
+        "enunciado": "Una docente busca que sus estudiantes reflexionen sobre la importancia de respetar la dignidad humana desde la perspectiva cristiana. ¿Cuál de las siguientes acciones pedagógicas es más adecuada para que la docente logre su propósito?",
+        "opciones": [
+            "Presentar el caso de una persona que no recibe una atención de salud adecuada. Luego, en equipos, solicitar que lean el texto 'Jesús sana a un ciego de nacimiento' (Juan 9, 1-16) y comenten sobre el trato que Jesús brinda al ciego. Finalmente, pedir que, sobre la base del texto bíblico, dialoguen sobre si es que consideran que todas las personas merecen un trato digno.",
+            "Pedir que lean y analicen, en la Declaración universal de los derechos humanos, si es que existen algunas bases de la dignidad humana provenientes del cristianismo. Luego, solicitar que, en equipos, elijan uno de los derechos y elaboren ejemplos del cumplimiento de dicho derecho. Finalmente, invitar a que compartan con la clase los ejemplos que crearon y señalen cómo se relacionan con la dignidad humana.",
+            "Pedir que lean y analicen el texto sobre la creación del hombre (Génesis 1, 26-27). Luego, sobre la base de lo leído, comentarles cómo el análisis de la frase 'Dijo Dios: Hagamos al hombre a nuestra imagen y semejanza' permite comprender el significado de la dignidad humana según el cristianismo. Finalmente, pedir que, en equipos, analicen otros textos bíblicos que contienen las bases de la dignidad humana, como 'La curación del leproso'."
+        ],
+        "correcta": 2  # Clave: C
+    },
+    {
+        "numero": 28,
+        "enunciado": "Los estudiantes, orientados por la docente, han leído e interpretado las bienaventuranzas. A continuación, la docente busca conocer qué estrategias metacognitivas emplearon para comprenderlas. ¿Cuál de las siguientes acciones es adecuada para ello?",
+        "opciones": [
+            "Pedir que expliquen si tuvieron dificultades al leer las bienaventuranzas. Luego, preguntar por las acciones que realizaron para lograr superarlas.",
+            "Pedir que mencionen cuál es el mensaje de las bienaventuranzas. Luego, indicar que busquen una lectura que tenga un mensaje similar.",
+            "Pedir que mencionen qué aspecto de las bienaventuranzas llamó más su atención. Luego, indicar cómo podrían incorporar en sus vidas las enseñanzas que ofrecen."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 29,
+        "enunciado": "Durante una actividad de análisis bíblico, un docente presenta a los estudiantes el texto de Mateo 9, 20-22 (la mujer con hemorragias que toca el manto de Jesús). ¿Cuál de las siguientes actividades es más adecuada para que los estudiantes interpreten el mensaje del texto?",
+        "opciones": [
+            "Comentar cuáles fueron las razones por las cuales la mujer que fue curada no se acercaba directamente a Jesús. Luego, indicar que, a partir de la explicación, busquen otros ejemplos de personas que no se acercaban a Jesús por sentirse impuros. Finalmente, pedir que presenten sus hallazgos a sus compañeros de aula e identifiquen coincidencias.",
+            "Pedir que describan qué sucedía con la mujer mencionada en el relato y por qué esperaba a Jesús. Luego, solicitar que, en equipos, comenten el significado de la frase 'Tu fe te ha salvado'. Finalmente, pedirles que lean otros textos en los cuales Jesús sana a enfermos e indicarles que los comparen con el que han leído.",
+            "Indicar que lean el significado del texto en los comentarios del contexto bíblico. Luego, pedir que, sobre la base de lo leído, comenten cómo la mujer logró que Jesús la curara. Finalmente, solicitar que, en equipos, opinen sobre la importancia de la fe que Jesús destacó en la mujer enferma."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 30,
+        "enunciado": "Como parte de la planificación de una sesión que busca que los estudiantes reflexionen sobre las celebraciones cristianas, un docente diseña algunas actividades para que los estudiantes comprendan qué es la cuaresma. ¿Cuál de las siguientes actividades es más adecuada para iniciar dicho aprendizaje?",
+        "opciones": [
+            "Presentarles la historia del pueblo de Israel en el desierto, en la cual dicho pueblo tuvo que pasar por un periodo largo de pruebas y penitencias. Luego, solicitar que busquen, en la Biblia, algunos personajes que pasaron por un proceso de conversión y penitencia. Finalmente, explicarles por qué todo cristiano debe pasar por periodos de penitencia personal.",
+            "Preguntar si es que sus familias celebran la semana santa. Luego, decirles que, en equipos, comenten las tradiciones que tienen sus familias para prepararse para la semana santa y señalen las que tienen en común. Finalmente, a partir de lo señalado, preguntarles por qué es importante tener un tiempo de preparación previo a la semana santa.",
+            "Pedir que, en equipos, elaboren un escrito con las ideas que tienen sobre el significado de la cuaresma. Luego, indicar que señalen las semejanzas encontradas sobre la cuaresma entre los escritos. Finalmente, solicitar que busquen, en el Catecismo de la Iglesia católica, el significado de la cuaresma y lo comparen con sus escritos."
+        ],
+        "correcta": 1  # Clave: B
+    },
+    {
+        "numero": 31,
+        "enunciado": "Los estudiantes, en equipos, realizarán una investigación sobre el respeto de la dignidad humana en el Perú. Como parte de la planificación, la docente les dará orientaciones para favorecer la gestión autónoma del aprendizaje. ¿Cuál de las siguientes acciones pedagógicas favorece más este propósito?",
+        "opciones": [
+            "Pedirles que dialoguen sobre cómo podrían organizar las tareas para realizar su investigación. Luego, brindarles algunos criterios para distribuir equitativamente las tareas a los miembros del equipo y animarlos a proponer otras en caso de ser necesario. Finalmente, solicitar que implementen una estrategia que les permita verificar el cumplimiento de las tareas según la distribución que hicieron.",
+            "Pedirles que mencionen algunos casos de discriminación que hayan presenciado en sus comunidades. Luego, decirles que elijan uno de los casos señalados y compartan argumentos que expliquen por qué estos evidencian una vulneración de la dignidad y los derechos humanos. Finalmente, pedirles que, en cada equipo, consideren los mejores argumentos expuestos para desarrollarlos en su investigación.",
+            "Pedirles que identifiquen, a través de un esquema, las partes que tendrá su trabajo de investigación. Luego, decirles que, en equipos, se distribuyan cada una de las partes del trabajo y busquen fuentes bibliográficas con la información necesaria sobre el tema. Finalmente, solicitarles que extraigan las principales ideas de las fuentes consultadas para que, sobre esta base, inicien un borrador de las diversas partes de la investigación."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 32,
+        "enunciado": "Un docente presenta el pasaje 'Dios-Amor es fuente del amor' (1 Juan 4, 7-11). Después de que los estudiantes comprendieran el mensaje, busca que reflexionen sobre él para aplicarlo en su vida diaria. ¿Cuál de las siguientes acciones pedagógicas es más adecuada?",
+        "opciones": [
+            "Pedir que expliquen qué creen que significa la frase 'El que no ama no ha conocido a Dios'. Luego, solicitar que compartan sus opiniones sobre cómo se manifiesta el amor de Dios a las personas, según el texto. Finalmente, pedir que examinen sus acciones y evalúen si estas se corresponden con el mensaje del texto leído.",
+            "Solicitar que describan algunas definiciones que conozcan sobre la palabra 'amor'. Luego, a partir de las definiciones descritas, compartir con ellos el significado del amor cristiano. Finalmente, decirles que, tomando como referencia el amor cristiano, comenten el mensaje de la frase 'Amémonos unos a otros, porque el amor viene de Dios'.",
+            "Indicar que comenten por qué el texto dice que 'el amor viene de Dios'. Luego, pedir que busquen, en las parábolas de la misericordia (Lucas 15), algunas características del amor de Dios y señalen si se relacionan con el texto 'Dios-Amor es fuente del amor'. Finalmente, a partir de sus hallazgos, elaborar con los estudiantes un listado de ejemplos que muestran cómo Dios manifiesta su amor a los hombres."
+        ],
+        "correcta": 0  # Clave: A
+    },
+    {
+        "numero": 33,
+        "enunciado": "La docente ha pedido a los estudiantes que analicen el texto 'Dios-Amor es fuente del amor' a través del método de la Lectio Divina. ¿Cuál de los siguientes textos elaborados por los estudiantes se corresponde con el momento de la meditación?",
 
+"opciones": ["Agradeceré a Dios por su infinito amor, por salvarnos del pecado enviando a su Hijo único para que tengamos vida eterna. Le pediré que este amor esté presente en mí cada día.","El amor de Dios nos permite ver nuestra reality de otra manera. Por eso, trataré de poner en práctica la frase 'amémonos unos a otros' en mi familia, institución educativa y comunidad.","Este relato dice cómo es el amor de Dios y cómo se ha manifestado entre nosotros. Además, me ha llamado la atención esa frase que dice: 'El que no ama no ha conocido a Dios, pues Dios es amor'."],"correcta": 1  # Clave: B},{"numero": 34,"enunciado": "Como parte de una actividad de aprendizaje sobre el respeto por la dignidad humana, una docente se propone que los estudiantes analicen un documento de la Iglesia católica que favorezca la reflexión sobre el rol de las mujeres en la transmisión de la fe en sus comunidades. ¿Cuál de los siguientes documentos es pertinente para ello?","options": ["La exhortación apostólica Querida Amazonía.","La carta encíclica Fratelli Tutti.","La carta encíclica Laudato si´."],"correcta": 0  # Clave: A},{"numero": 35,"enunciado": "Un docente tiene como propósito que los estudiantes analicen textos bíblicos a través del método histórico-crítico. Para ello, les presenta el texto bíblico 'Curación de un leproso' (Mateo 8, 1-4). ¿Cuál de las siguientes acciones pedagógicas es más adecuada para el momento inicial del método histórico-crítico?","opciones": ["Indicarles que expliquen cómo creen que Jesús actuaría en el contexto actual para ayudar a las personas enfermas que no tienen medios ni apoyo para cuidar de su salud.","Explicarles que las personas de la época de Jesús rechazaban a las personas enfermas porque creían que eran impuras y su enfermedad era castigo de Dios.","Comentarles que el texto expresa, como enseñanza principal, que la fe, por más pequeña que sea, puede lograr milagros."],"correcta": 1  # Clave: B},{"numero": 36,"enunciado": "En el marco de una actividad de aprendizaje, la docente se propone que los estudiantes comprendan la importancia del principio de participación de la Doctrina Social de la Iglesia para que fomenten acciones de ayuda en su comunidad. ¿Cuál de las siguientes actividades es más adecuada para ello?","opciones": ["Pedir que comenten por qué las decisiones políticas pueden influenciar positiva o negativamente en sus comunidades. Luego, investigar propuestas políticas que hayan favorecido a las comunidades y mostrar cómo se complementan con la Iglesia.","Brindar información sobre los problemas más recurrentes en el país. Luego, pedir que elaboren un escrito sobre cómo estos problemas han afectado a la sociedad peruana y señalar qué aspectos se relacionan con el principio de participación.","Pedir que señalen las problemáticas que hay al interior de sus comunidades. Luego, solicitar que analicen las causas y consecuencias del problema de mayor incidencia e indicarles que expliquen si consideran que la puesta en práctica del principio de participación podría contribuir a afrontarlo."],"correcta": 2  # Clave: C},{"numero": 37,"enunciado": "De acuerdo con la perspectiva del enfoque inclusivo, ¿cuál de las siguientes propuestas es más pertinente para que los estudiantes con ceguera participen significativamente en las sesiones de clase?","opciones": ["Indagar sobre las preferencias de los estudiantes en cuanto a la presentación o el formato de la información (si quieren que alguien les lea o leer en Braille) para que accedan a la misma información que sus compañeros.","Asignar a un estudiante que asista a los estudiantes con ceguera durante las actividades de lectura para que sientan siempre el apoyo de sus compañeros y aumente su confianza.","Darles una explicación general sobre el contenido antes de una lectura grupal para evitar que se enfrenten con muchas dificultades y mantener el ritmo de sus compañeros."],"correcta": 0  # Clave: A},
+        
 ]
 
 # Inicializar variables de estado para el control de páginas y almacenamiento de respuestas
