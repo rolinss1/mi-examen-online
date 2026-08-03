@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Simulador MINEDU", page_icon="📝", layout="centered")
 
 st.title("📝 Simulador de Examen MINEDU")
-st.subheader("👨‍🏫 Concurso de Ascenso - Educación Religiosa")
+st.subheader("👨‍🏫 Concurso de Ascenso - Educación Religiosa 2024")
 st.write("Responde las preguntas y mide tus conocimientos en tiempo real.")
 st.markdown("---")
 
